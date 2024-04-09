@@ -1,2 +1,2 @@
-# gitBasics2
+# gitBasics
 comandos basicos de git
